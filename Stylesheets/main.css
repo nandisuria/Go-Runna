@@ -14,5 +14,27 @@ header{
 }
 
 .container h2 {
+	font-family: 'Amatic SC' !important;
 	font-size: 100;
+}
+
+.jumbotron {
+background-color: white;
+}
+
+li {
+	text-align: left;
+}
+
+.navbar {
+	font-family: 'Amatic SC' !important; 
+	font-size: 30;
+}
+
+#products {
+background-color: white;
+}
+
+#challenge {
+	background-color: white;
 }
