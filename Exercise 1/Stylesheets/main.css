@@ -8,10 +8,11 @@ header{
 	color: white;
 }
 
-h2{
-	font-size: 30;
-}
 
 .carousel-control.left, .carousel-control.right {
     background-image: none
+}
+
+.container h2 {
+	font-size: 100;
 }
